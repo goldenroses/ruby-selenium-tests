@@ -6,9 +6,6 @@ class EcommerceTests < Test::Unit::TestCase
     username= "{LAMBDATEST_USERNAME}"
     accessToken= "{LAMBDATEST_ACCESS_KEY}"
     gridUrl = "hub.lambdatest.com/wd/hub"
-    username= "makenaroes"
-    accessToken= "K924FH6LZsO8JzjHyx0eyYnUb3LElaNbaIcAfB8isWotf0tnE4"
-    gridUrl = "hub.lambdatest.com/wd/hub"
 
     capabilities = {
       'LT:Options' => {
